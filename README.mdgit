@@ -1,0 +1,1 @@
+"# PUTIN"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/dixiss11-oss/PUTIN.gitgit push -u origin main"dixiss11-oss"
